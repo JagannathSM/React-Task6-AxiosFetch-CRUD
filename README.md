@@ -1,4 +1,4 @@
-<b>Updated NetlifyURl : </b> https://667977e2235f9bae08a5c1fe--glistening-bienenstitch-9c26ab.netlify.app/Contacts
+<b>Updated NetlifyURL : </b> https://667977e2235f9bae08a5c1fe--glistening-bienenstitch-9c26ab.netlify.app/Contacts
 
 # React + Vite
 
